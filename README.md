@@ -1,4 +1,4 @@
-# ubuntudock
+# Ubuntu dock with MacOs style
 ubuntu dock macosx style 
 
 
