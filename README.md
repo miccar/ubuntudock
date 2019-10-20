@@ -1,4 +1,4 @@
-# Ubuntu dock with MacOs style
+# Ubuntu 19.10 dock with MacOs style
 A brief guide to change default ubuntu dock style with a MacOs style
 
 ## How to
